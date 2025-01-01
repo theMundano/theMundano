@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theMundano
-- 👀 I’m interested in creating an urban environment where nature and humans can live in harmony (and technology, of course!).
-- 🌱 I’m currently learning Algorithm, Logic programming, PHP, C# & more
+- 👀 I’m interested in creating an urban environment where nature and humans can live in harmony
+- 🌱 I’m currently learning C, C#, SQL Server & PostgreSQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
